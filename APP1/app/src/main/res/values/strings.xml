@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APP1</string>
+    <string name="hello_world">HOLA MUNDO!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Aceptar</string>
+
+</resources>
